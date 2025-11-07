@@ -38,6 +38,9 @@ commande utilisé : git branch -a il y a 6 branhces 1-HEAD 2-experiment/darkmode
 feature/header feature/login hotfix/typo et le main
  
 2. Quels sont les **tags** disponibles ? A quoi correspondent-ils ?  
+commande utilisée: git tag
+il y a 2 tags pour les versions 1 et 2
+
 3. Quelle est la **branche principale** du projet ?
 
 ### Partie 3 — Historique et commits
