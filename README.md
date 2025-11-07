@@ -48,6 +48,10 @@ commande utilisée: git branch -a, la branche principale est HEAD
 ### Partie 3 — Historique et commits
 
 4. Quel est le message du **premier commit** du projet ?  
+
+commande utilisée: git log, le premier message est :
+Initial commit: structure HTML/CSS/JS  README  docs
+
 5. Trouvez le commit où une **clé API** a été ajoutée par erreur. Quel est son identifiant (hash court) ?  
 6. Quel commit a ensuite corrigé cette erreur ?  
 7. Trouvez le commit où le **titre de la page d'accueil** a été corrigé.  
