@@ -53,6 +53,10 @@ commande utilisée: git log, le premier message est :
 Initial commit: structure HTML/CSS/JS  README  docs
 
 5. Trouvez le commit où une **clé API** a été ajoutée par erreur. Quel est son identifiant (hash court) ?  
+
+commande: git log --grep='API' , résultat:
+bea2dbea2d1aeaecd11e9c0af36cf6f052f65e82d36c5
+
 6. Quel commit a ensuite corrigé cette erreur ?  
 7. Trouvez le commit où le **titre de la page d'accueil** a été corrigé.  
 8. Quel est le message du commit qui a **ajouté le fichier `CHANGELOG.md`** et quelle commande avez-vous utilisé ?
