@@ -1,4 +1,4 @@
-# Challenge - Inspection et Analyse d'un Repository GIT
+$# Challenge - Inspection et Analyse d'un Repository GIT
 
 ## Consignes générales
 
@@ -58,6 +58,10 @@ commande: git log --grep='API' , résultat:
 bea2dbea2d1aeaecd11e9c0af36cf6f052f65e82d36c5
 
 6. Quel commit a ensuite corrigé cette erreur ?  
+
+commande: git log --grep='API' , résultat:
+1b682c91ef14cda333419e2e387a53033ae575a1
+
 7. Trouvez le commit où le **titre de la page d'accueil** a été corrigé.  
 8. Quel est le message du commit qui a **ajouté le fichier `CHANGELOG.md`** et quelle commande avez-vous utilisé ?
 
