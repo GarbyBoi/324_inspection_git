@@ -43,6 +43,8 @@ il y a 2 tags pour les versions 1 et 2
 
 3. Quelle est la **branche principale** du projet ?
 
+
+commande utilisée: git branch -a, la branche principale est HEAD
 ### Partie 3 — Historique et commits
 
 4. Quel est le message du **premier commit** du projet ?  
