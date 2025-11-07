@@ -32,7 +32,11 @@ https://github.com/ETML-RRY/324_inspection_git.git
 
 ### Partie 2 — Exploration de base
 
-1. Combien de branches existent dans le dépôt ? Citez-les.  
+1. Combien de branches existent dans le dépôt ? Citez-les. 
+
+commande utilisé : git branch -a il y a 6 branhces 1-HEAD 2-experiment/darkmode 
+feature/header feature/login hotfix/typo et le main
+ 
 2. Quels sont les **tags** disponibles ? A quoi correspondent-ils ?  
 3. Quelle est la **branche principale** du projet ?
 
